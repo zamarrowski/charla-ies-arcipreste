@@ -12,7 +12,7 @@
     * [HTML5Spain](https://www.meetup.com/es-ES/HTML5-Spain/)
 5. Donde aprender:
     * [Udemy](https://www.udemy.com/)
-    * [Pluralsight][https://www.pluralsight.com/]
+    * [Pluralsight](https://www.pluralsight.com/)
     * [Scotch.io](https://scotch.io/)
     * [Stackoverflow](https://stackoverflow.com/)
     * [Medium](https://medium.com/)
