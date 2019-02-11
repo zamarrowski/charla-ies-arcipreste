@@ -10,6 +10,7 @@ Podéis ver mis repositorios en Github: https://github.com/zamarrowski
 
 ## Que vamos a ver
 
+0. [Mundo laboral](./mundolaboral.md)
 1. [Git](./git.md)
 2. [Github](./github.md)
 3. [ES6](./es6.md)
